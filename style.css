@@ -1,0 +1,15 @@
+html {
+	font-family: monospace;
+	font-family:
+}
+
+.bet {
+	display: inline;
+}
+
+.bit {
+	display: none;
+	font-weight: bold;
+	font-style: italic;
+	color: goldenrod;
+}
